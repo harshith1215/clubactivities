@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(28, 49, 143);
+}
+.quiz{
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    color: black;
+    background-color: white;
+    width: 15em;
+    height: 10em;
+}
+.vitspace{
+    margin: 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    color: black;
+    background-color: white;
+    width: 15em;
+    height: 10em;
+}
+#heading{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.activities{
+    display: flex;
+    justify-content: space-around;
+
+}
+.promo{
+    display: flex;
+    justify-content: space-around;
+
+}
+.link1{
+    padding: 8px 8px 8px 8px;
+    font-size: larger;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#quizwtsp{
+    text-decoration: none;
+}
