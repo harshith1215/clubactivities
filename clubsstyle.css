@@ -4,6 +4,7 @@ body{
     border-style: solid;
     border-color: white;
     margin:5px;
+    height:max-height;
 }
 .quiz{
     border-radius: 5px;
