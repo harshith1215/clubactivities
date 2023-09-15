@@ -1,5 +1,9 @@
 body{
     background-color: rgb(28, 49, 143);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    margin:5px;
 }
 .quiz{
     border-radius: 5px;
