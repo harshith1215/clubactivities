@@ -6,6 +6,7 @@ body{
     border-style: solid;
     border-color: white;
     margin:5px;
+    padding-bottom:50px;
 }
 .quiz{
     border-radius: 5px;
